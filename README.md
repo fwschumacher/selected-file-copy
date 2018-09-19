@@ -2,7 +2,7 @@
 Copies a list of files from one folder to another
 
 ## Usage
-python selected-file-copy.py <source> <target> <list>
+`python selected-file-copy.py <source> <target> <list>`
   
 where
 * source = source folder
