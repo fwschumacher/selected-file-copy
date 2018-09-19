@@ -5,6 +5,6 @@ Copies a list of files from one folder to another
 python selected-file-copy.py <source> <target> <list>
   
 where
-  source = source folder
-  target = target folder
-  list = name of text file containing the list of files to copy
+* source = source folder
+* target = target folder
+* list = name of text file containing the list of files to copy
